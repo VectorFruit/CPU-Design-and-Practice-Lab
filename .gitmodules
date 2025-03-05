@@ -1,0 +1,3 @@
+[submodule "cdp_ede_local"]
+	path = cdp_ede_local
+	url = https://gitee.com/loongson-edu/cdp_ede_local
